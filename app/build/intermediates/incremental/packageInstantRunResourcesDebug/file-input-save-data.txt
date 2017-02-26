@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Sun Feb 26 18:57:03 BRT 2017
+2.base=D\:\\projetos\\android_apps\\AndroidStudioProjects\\Lab4_UILabs\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\projetos\\android_apps\\AndroidStudioProjects\\Lab4_UILabs\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=D\:\\projetos\\android_apps\\AndroidStudioProjects\\Lab4_UILabs\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\projetos\\android_apps\\AndroidStudioProjects\\Lab4_UILabs\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\todo_item.xml
+2.set=ANDROID_RESOURCE
+4.base=D\:\\projetos\\android_apps\\AndroidStudioProjects\\Lab4_UILabs\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=D\:\\projetos\\android_apps\\AndroidStudioProjects\\Lab4_UILabs\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\todo_item.xml
+5.base=D\:\\projetos\\android_apps\\AndroidStudioProjects\\Lab4_UILabs\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=D\:\\projetos\\android_apps\\AndroidStudioProjects\\Lab4_UILabs\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\projetos\\android_apps\\AndroidStudioProjects\\Lab4_UILabs\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+2.file=D\:\\projetos\\android_apps\\AndroidStudioProjects\\Lab4_UILabs\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\footer_view.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\projetos\\android_apps\\AndroidStudioProjects\\Lab4_UILabs\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\projetos\\android_apps\\AndroidStudioProjects\\Lab4_UILabs\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=D\:\\projetos\\android_apps\\AndroidStudioProjects\\Lab4_UILabs\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\projetos\\android_apps\\AndroidStudioProjects\\Lab4_UILabs\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\add_todo.xml
+0.set=ANDROID_RESOURCE
